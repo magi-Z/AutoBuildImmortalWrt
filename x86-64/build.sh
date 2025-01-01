@@ -22,6 +22,12 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
+# 自定义app
+PACKAGES="$PACKAGES luci-app-netdata=y"
+PACKAGES="$PACKAGES luci-app-ramfree=y"
+PACKAGES="$PACKAGES luci-app-poweroff"
+PACKAGES="$PACKAGES luci-app-samba4"
+PACKAGES="$PACKAGES luci-app-store"
 
 # 构建镜像
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Building image with the following packages:"
