@@ -58,7 +58,6 @@ PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-cpulimit-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-base-zh-cn"
-PACKAGES="$PACKAGES luci-app-nlbwmon"
 PACKAGES="$PACKAGES luci-i18n-aria2-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-adblock-fast-zh-cn"
 
