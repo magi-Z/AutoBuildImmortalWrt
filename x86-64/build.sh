@@ -34,12 +34,12 @@ PACKAGES="$PACKAGES luci-i18n-ramfree-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-rclone-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-smartdns-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-statistics-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-usb-printer-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-watchcat-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-timewol-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-statistics-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-usb-printer-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-watchcat-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-timewol-zh-cn"
 
 
 # 构建镜像
