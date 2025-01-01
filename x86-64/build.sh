@@ -41,7 +41,6 @@ PACKAGES="$PACKAGES	luci-i18n-statistics-zh-cn"
 PACKAGES="$PACKAGES	luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES	luci-i18n-usb-printer-zh-cn"
 PACKAGES="$PACKAGES	luci-i18n-watchcat-zh-cn"
-PACKAGES="$PACKAGES	luci-i18n-nlbwmon-zh-cn"
 PACKAGES="$PACKAGES	luci-i18n-timewol-zh-cn"
 
 
