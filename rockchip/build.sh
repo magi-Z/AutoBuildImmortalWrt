@@ -70,7 +70,7 @@ PACKAGES="$PACKAGES luci-i18n-minidlna-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-udpxy-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-wifischedule-zh-cn"
 
 # 构建镜像
