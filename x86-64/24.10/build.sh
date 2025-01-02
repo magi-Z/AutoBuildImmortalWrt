@@ -62,7 +62,7 @@ PACKAGES="$PACKAGES luci-i18n-oled-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
 PACKAGES="$PACKAGES luci-app-nlbwmon"
-#PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
 
 # 构建镜像
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Building image with the following packages:"
