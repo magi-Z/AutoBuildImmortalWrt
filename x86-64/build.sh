@@ -52,8 +52,7 @@ PACKAGES="$PACKAGES luci-i18n-vlmcsd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-mwol-zh-cn"
 
-#PACKAGES="$PACKAGES luci-i18n-app-socat"
-#PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-cpulimit-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
@@ -64,7 +63,7 @@ PACKAGES="$PACKAGES luci-i18n-oled-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
 #PACKAGES="$PACKAGES luci-app-nlbwmon"
-#PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
 
 
 # 构建镜像
