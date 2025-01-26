@@ -74,7 +74,6 @@ PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-adblock-fast-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-wifischedule-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-base-zh-cn"
 
 ##
 
