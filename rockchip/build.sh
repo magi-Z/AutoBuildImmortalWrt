@@ -69,13 +69,20 @@ PACKAGES="$PACKAGES luci-i18n-aria2-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-mwol-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-minidlna-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
-#
 PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-adblock-fast-zh-cn"
+#
+PACKAGES="$PACKAGES luci-i18n-wifischedule-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
+
+
+
+
+
 #PACKAGES="$PACKAGES luci-i18n-base-zh-cn"
 #
-#PACKAGES="$PACKAGES luci-i18n-wifischedule-zh-cn"
+#
 #
 #
 #PACKAGES="$PACKAGES luci-i18n-oled-zh-cn"
@@ -87,7 +94,7 @@ PACKAGES="$PACKAGES luci-i18n-adblock-fast-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-adbyby-plus-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
+#
 #PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-mwan3helper-zh-cn"
 
