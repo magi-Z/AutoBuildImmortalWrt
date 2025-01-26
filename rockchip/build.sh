@@ -77,15 +77,17 @@ PACKAGES="$PACKAGES luci-i18n-wifischedule-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-base-zh-cn"
 
+##
+PACKAGES="$PACKAGES luci-i18n-adbyby-plus-zh-cn"
 
 
-#
+
 #PACKAGES="$PACKAGES luci-i18n-ahcp-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-udpxy-zh-cn"
 #
 #
-#PACKAGES="$PACKAGES luci-i18n-adbyby-plus-zh-cn"
+#
 #PACKAGES="$PACKAGES luci-i18n-socat-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
 #
